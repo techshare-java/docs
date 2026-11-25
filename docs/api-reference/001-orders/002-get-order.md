@@ -31,7 +31,7 @@ GET /api/v1/orders/{id}
 
 **HTTP 200 OK**
 
-Returns a single [Order object](./003-order-object.md).
+Returns a single [Order object](./005-order-object.md).
 
 ```json
 {

@@ -29,7 +29,7 @@ No query parameters.
 
 **HTTP 200 OK**
 
-Returns an array of [Order objects](./003-order-object.md). The array may be empty.
+Returns an array of [Order objects](./005-order-object.md). The array may be empty.
 
 ```json
 [
