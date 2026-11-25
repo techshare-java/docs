@@ -1,0 +1,1 @@
+"use strict";(Array.isArray(globalThis.webpackChunkdocs_techshare)?globalThis.webpackChunkdocs_techshare:globalThis.webpackChunkdocs_techshare=[]).push([[235],{8552(s){s.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
